@@ -1,0 +1,1 @@
+The plugin contains a bunch of scripts facilitating the use of open source project Mistral http://mistral.univ-avignon.fr/en/ NOW Alize again new version HERE http://alize.univ-avignon.fr/ with Praat http://www.fon.hum.uva.nl/praat/
